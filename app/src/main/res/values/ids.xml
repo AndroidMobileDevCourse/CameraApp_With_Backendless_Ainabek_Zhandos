@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="YOUR_APPLICATION_ID">42A6DA8C-1CD3-74AF-FF0D-F1D34D9A5D00</string>
+    <string name="YOUR_ANDROID_SECRET_KEY">395D006A-08F8-EC12-FF58-6AAF3068BF00</string>
+
+    <string name="GOOGLE_MAPS_API_KEY">AIzaSyA-rt7HvTKRGJzWgB8bhZ_L8MZWwGLlHxQ</string>
+</resources>
